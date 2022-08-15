@@ -1,6 +1,6 @@
 module ppamo/golang_simple_app_heroku
 
-go 1.19
+go 1.18
 
 require github.com/labstack/echo v3.3.10+incompatible
 
