@@ -8,7 +8,7 @@ import (
 )
 
 var (
-	SERVER_PORT=os.Getenv("SERVER_PORT")
+	SERVER_PORT=os.Getenv("PORT")
 )
 
 func main() {
